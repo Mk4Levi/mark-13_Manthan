@@ -1,3 +1,3 @@
 # mark-13_Manthan
  
-# Checking Palindrome Birthday  
+# Palindrome Birthday App by Manthan   
